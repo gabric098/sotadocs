@@ -1,0 +1,21 @@
+---
+title: "Sota Docs"
+author: "Gabriele Antonini"
+version: "1.0"
+output:
+    html_document:
+        toc: true
+        toc_depth: 2
+---
+
+# Header 1
+
+## Header 2
+This is an introduction text
+
+## Header 3
+This is another chapter
+
+```
+R -e "rmarkdown::render('src/sotadocs.Rmd',output_file='sotadocs.html')"
+```

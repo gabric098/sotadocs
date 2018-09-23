@@ -1,21 +1,55 @@
 ---
-title: "Sota Docs"
+title: "Summits on the air - Regole generali"
 author: "Gabriele Antonini"
 version: "1.0"
+date:
 output:
     html_document:
         toc: true
         toc_depth: 2
 ---
 
-# Header 1
-
-## Header 2
-This is an introduction text
-
-## Header 3
-This is another chapter
 
 ```
-R -e "rmarkdown::render('src/sotadocs.Rmd',output_file='sotadocs.html')"
+Versione: 1.0
+Data rilascio: 23/09/2018
 ```
+
+**Avviso**
+
+"Summits on the air", SOTA e il logo SOTA sono marchi del Programma. Il copyright della versione originale di questo documento appartiene al Programma. Tutti gli altri marchi o copyright menzionati nel documento sono riconosciuti.
+
+# 1. Storico delle revisioni
+
+Data | Versione | Dettagli
+------------- | ------------- | -------------
+23/09/2018 | 1.0 | Versione iniziale del documento
+
+# 2. Definizioni
+
+I seguenti links offrono una chiara definizione del concetto di **Prominenza**:
+
+[Wikipedia](http://en.wikipedia.org/wiki/Topographic_prominence)
+
+[Google Search](https://www.google.co.uk/search?q=topographic+prominence&safe=active&biw=832&bih=854&site=webhp&tbm=isch&tbo=u&source=univ&sa=X&ei=kukPVdbvMMiz7gaYzoGYDw&sqi=2&ved=0CFwQsAQ&dpr=1)
+
+# 3. Regole del Programma
+
+## 3.1 Scopo
+
+Lo scopo del SOTA (il Programma) è di favorire l'attivita' radio amatoriale da rilievi come colline e montagne in vari paesi del mondo e di fornire un sistema di diplomi per i Radioamatori di qualsiasi Entita' DXCC. (vedi [http://www.sota.org.uk/](http://www.sota.org.uk/)) Il programma e' pensato per favorire l'attivita' radio da rilievi chiaramente definiti che includono le principali montagne. Per fare in modo che la partecipazione al Programma sia la piu' ampia possibile, possono essere incluse anche cime minori. Un sistema di punteggio incrementale riconosce di conseguenza le cime piu' alte. Il Programma e' pensato per attivita' in portatile (/P) e non accetta attivita' svolte da un veicolo a motore.
+
+Il Programma contempla la partecipazione di **Attivatori** chi fa i QSO dalle Cime, **Cacciatori** chi contatta gli Attivatori, e **Short Wave Listeners**
+
+Il Programma SOTA incoraggia sia l'attivita' e la sperimentazione radioamatoriale finalizzata ad accrescere conoscenze e capacita' nell'uso di attrezzatura, in particolare antenne, sia favorendo l'apprendimento di nuove conoscenze, per esempio, operare in CW o modi digitali (per coloro che non pssiedono gia' tali conoscenze).
+
+## 3.2 Struttura del Programma
+
+### 3.2.1 Àmbito
+
+Il Programma è un Programma P150m a diplomi (definito come una Prominenza di almeno 150 metri) aperto a tutti i Radio Amatori del mondo. Non esiste alcuna restrizione su chi possa attivare le Cime, anche se è probabile che la maggior parte degli attivatori opereranno da Cime nella zona dove abitualmente risiedono. Cacciatori e Short Wave Listeners possono essere in qualsiasi Paese, anche se non esiste alcuna Associazione (SOTA) nella loro area.
+
+
+### 3.2.2 Management Team
+
+I fondatori del Programma hanno nominato un ristretto team di Direzione (Management Team) che ha la responsibilità di gestire in senso generale il Programma SOTA. In particolare, è responsabile della creazione e l'aggiornamento delle Regole Generali e delle decisioni riguardo l'idoneità e l'approvazione (vedi più sotto) delle proposte fatte dalle varie Associazioni. Il Management Team può richiedere l'aiuto di altri partecipanti o collaboratori per agevolare lo svolgimento dei propri compiti.

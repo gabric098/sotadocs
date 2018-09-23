@@ -1,0 +1,29 @@
+---
+title: "Summits on the air - Regole generali"
+author: "Gabriele Antonini"
+version: "1.0"
+date:
+output:
+    html_document:
+        toc: true
+        toc_depth: 2
+---
+
+
+```
+Versione: 1.0
+Data rilascio: 23/09/2018
+```
+
+**Avviso**
+
+"Summits on the air", SOTA e il logo SOTA sono marchi del Programma. Il copyright della versione originale di questo documento appartiene al Programma. Tutti gli altri marchi o copyright menzionati nel documento sono riconosciuti.
+
+```{r child = '1-revisions.Rmd'}
+```
+
+```{r child = '2-definitions.Rmd'}
+```
+
+```{r child = '3-rules.Rmd'}
+```

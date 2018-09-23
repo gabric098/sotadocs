@@ -1,0 +1,12 @@
+# 3. Regole del Programma
+
+## 3.1 Scopo
+
+Lo scopo del SOTA (il Programma) è di favorire l'attivita' radio amatoriale da rilievi come colline e montagne in vari paesi del mondo e di fornire un sistema di diplomi per i Radioamatori di qualsiasi Entita' DXCC. (vedi [http://www.sota.org.uk/](http://www.sota.org.uk/)) Il programma e' pensato per favorire l'attivita' radio da rilievi chiaramente definiti che includono le principali montagne. Per fare in modo che la partecipazione al Programma sia la piu' ampia possibile, possono essere incluse anche cime minori. Un sistema di punteggio incrementale riconosce di conseguenza le cime piu' alte. Il Programma e' pensato per attivita' in portatile (/P) e non accetta attivita' svolte da un veicolo a motore.
+
+Il Programma contempla la partecipazione di **Attivatori** chi fa i QSO dalle Cime, **Cacciatori** chi contatta gli Attivatori, e **Short Wave Listeners**
+
+Il Programma SOTA incoraggia sia l'attivita' e la sperimentazione radioamatoriale finalizzata ad accrescere conoscenze e capacita' nell'uso di attrezzatura, in particolare antenne, sia favorendo l'apprendimento di nuove conoscenze, per esempio, operare in CW o modi digitali (per coloro che non pssiedono gia' tali conoscenze).
+
+```{r child = 'rules/3_2-structure.Rmd'}
+```

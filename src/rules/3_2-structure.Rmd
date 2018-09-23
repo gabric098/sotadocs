@@ -1,0 +1,36 @@
+## 3.2 Struttura del Programma
+
+### 3.2.1 Àmbito
+
+Il Programma è un Programma P150m a diplomi (definito come una Prominenza di almeno 150 metri) aperto a tutti i Radio Amatori del mondo. Non esiste alcuna restrizione su chi possa attivare le Cime, anche se è probabile che la maggior parte degli attivatori opereranno da Cime nella zona dove abitualmente risiedono. Cacciatori e Short Wave Listeners possono essere in qualsiasi Paese, anche se non esiste alcuna Associazione (SOTA) nella loro area.
+
+
+### 3.2.2 Direttivo (Management Team)
+
+I fondatori del Programma hanno nominato un ristretto Direttivo (Management Team) che ha la responsibilità di gestire in senso generale il Programma SOTA. In particolare, è responsabile della creazione e l'aggiornamento delle Regole Generali e delle decisioni riguardo l'idoneità e l'approvazione (vedi più sotto) delle proposte fatte dalle varie Associazioni. Il Management Team può richiedere l'aiuto di altri partecipanti o collaboratori per agevolare lo svolgimento dei propri compiti.
+
+### 3.2.3 Associazioni
+
+Le **Associazioni** del Programma SOTA sono formate da aree geografiche logicamente distinte, esse, accettando di far parte del Programma, aderiscono alle Regole Generali.
+
+Ci sono tre possibili varianti di Associazione:
+
+1. Ogni Entitita' DXCC puo' partecipare separatamente al SOTA. L'Entita' forma un'Associazione.
+
+2. In caso di Entita' DXCC particolarmente grandi, come ad esempio gli Stati Uniti, possono essere utilizzate Sottodivisioni (es. stati o province). L'area creata dalla Sottodivisione forma un'Associazione.
+
+3. In caso di Entita' DXCC particolarmente piccole, o gruppi di Entita' che spontaneamente si raggruppano, diverse Entita' possono creare una singola Associazione.
+
+Ogni Associazione deve avere un Manager (Association Manager) preferibilmente residente nell'area dell'Associazione stessa. L'Association Manager (AM), consultandosi con il Direttivo SOTA (MT) gestisce la ricerca di Cime con il fine di identificare Cime valide per il SOTA (minimo P150m) e presenta  una proposta nella forma di una Lista di Cime.
+
+L'AM inoltre determina i parametri che ritiene adatti alle esigenze dell'area che gestisce e crea il Manuale di riferimento dell'Associazione (Association Reference Manual) il quale e' presentato per approvazione al MT SOTA il quale si assicura che tutti gli aspetti siano conformi agli standard interazionali del SOTA. Quando sia la Lista delle Cime che l'Association Reference Manual sono stati approvati dal MT, l'Associazione viene detta Inclusa (Incorporated). Viene inclusa nel Database SOTA ai fini del calcolo dei punteggi, viene inoltre inclusa sul sito web del SOTA e su SOTAwatch. Il Reflector SOTA offre la possibilità ai partecipanti di discutere tutti gli aspetti del Programma SOTA ed è moderato per assicurarsi che il buon gusto prevalga sempre evitando sia un linguaggio scorretto che commenti offensivi/illegali/diffamatori.
+
+### 3.2.4 Regioni
+
+All'interno dell'area di un Associazione può esistere una o più Regioni. Queste ultime possono essere definite da suddivisioni di carattere geografico o politico.
+
+### 3.2.5 Partecipanti
+
+Esistono tre Classi di Partecipanti: Attivatori, Cacciatori ed SWL. I Punti sono assegnati per ogni Classe e sono disponibili diversi diplomi atti a premiare particolari livelli di successo.
+
+È consentito formare team per partecipare con Attivatori ma i punti guadagnati possono solo essere assegnati ai singoli partecipanti. Stazioni di Club non possono partecipare come veri e propri Attivatori, Cacciatori o SWL, ma Radioamatori possono utilizzate nominativi di Club a condizione che tali nominativi siano assegnati al Radioamatore che li utilizza. Il Database gestisce questi casi.

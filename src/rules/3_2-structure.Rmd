@@ -34,3 +34,10 @@ All'interno dell'area di un Associazione può esistere una o più Regioni. Quest
 Esistono tre Classi di Partecipanti: Attivatori, Cacciatori ed SWL. I Punti sono assegnati per ogni Classe e sono disponibili diversi diplomi atti a premiare particolari livelli di successo.
 
 È consentito formare team per partecipare con Attivatori ma i punti guadagnati possono solo essere assegnati ai singoli partecipanti. Stazioni di Club non possono partecipare come veri e propri Attivatori, Cacciatori o SWL, ma Radioamatori possono utilizzate nominativi di Club a condizione che tali nominativi siano assegnati al Radioamatore che li utilizza. Il Database gestisce questi casi.
+
+### 3.2.6 Funzionamento del Programma
+
+Il Programma è gestito tramite Internet utilizzando siti web, reflectors ed e-mail in modo da ridurre al massimo i costi. Il programma si auto finanzia attraverso il pagamento dei certificati o donazioni effettuate tramite il negozio SOTA online [http://www.sota-shop.co.uk/](http://www.sota-shop.co.uk/)
+
+L'indirizzo del sito SOTA internazionale è [https://www.sota.org.uk/](https://www.sota.org.uk/). All'indirizzo [http://reflector.sota.org.uk/](http://reflector.sota.org.uk/) è disponibile un gruppo di discussione dedicato alle relazioni delle Attivazioni e altri temi direttamente legati al Programma.
+

@@ -1,0 +1,13 @@
+## 3.4 Sistema di Referenze
+
+Ogni Regione all'interno di un'Associazione ottiene un identificativo di 2 caratteri. Ogni singola Cima all'interno della Regione ottiene un numero compreso tra 001 e 999 (non è mai successo che una Regione abbia più di qualche centinaio di Cime; se necessario si procederà con la creazione di una Sottodivisione).
+All'interno di un Associazione, questi due codici, creano un Numero di Referenza univoco con il seguente formato, per esempio LD-003. Nel caso il numero della Cima sia inferiore di 100, si mantengono gli zero in modo da ottenere sempre numeri a 3 cifre. Il Numero di Referenza viene usato in ogni aspetto del Programma per identificare una specifica Cima.
+Con lo scopo di identificare univocamente in a Cima a livello globale, si utilizza un Numero di Referenza SOTA Internazionale semplicemente anteponendo l'identificatore della Associazione al Numero di Referenza della Cima (per esempio G/LD-003). Tale identificatore della Associazione può essere:
+
+- Il prefisso ITU assegnato, in caso non sia stata applicata alcuna Sottodivisione, es. G/LD-003
+
+- Il prefisso ITU assegnato più l'identificatore della Sottodivisione, in caso sia stata applicata la Sottodivisione, es. W2/WE-003, W5O, W7O
+
+Per evitare confusione con il programma Islands on the air (IOTA), l'identificare della Cima **NON** deve essere una delle abbreviazioni utilizzate per riferirsi ai continenti nello IOTA  ovvero AF, AN, AS, EU, NA, OC or SA dal momento che esistono già delle regioni con questi codici a 2 lettere.
+
+Nel caso in cui una Cima venga riposizionata in seguito a rilevazini più accurate, la Cima manterrà il suo Numero di Referenza originale, nel caso in cui la nuova posizione del picco (punto piu' alto della Cima) rientri nella Zona di Attivazione del vecchio picco, altrimenti verrà assegnata una nuova Referenza e la vecchia verrà cancellata. Quando, per qualsiasi ragione, una Cima viene eliminata, il Numero di Referenza non verrà ri-assegnato.

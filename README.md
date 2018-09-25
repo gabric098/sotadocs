@@ -10,4 +10,4 @@ Run docker with the following command:
 
 `cd /home/sotadocs`
 
-`R -e "rmarkdown::render('src/sotadocs.Rmd',output_file='../dist/sotadocs.html')"`
+`R -e "rmarkdown::render('src/index.Rmd',output_file='../dist/sotadocs.html')"`

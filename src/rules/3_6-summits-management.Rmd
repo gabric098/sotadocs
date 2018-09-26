@@ -1,0 +1,37 @@
+## 3.6 Aggiunta e rimozione di cime
+
+La Lista delle Cime di una Associazione non è da considerarsi necessariamente esaustiva. È accettabile che la lista evolva con il tempo mentre il Programma si sviluppa all'interno dell'Associazione.
+
+Nuove Cime possono essere aggiunte al Programma se soddisfano i criteri definiti per l'Associazione. Una Cima aggiunta alla Lista in questa maniera sarà valida per essere Attivata a partire dalla data in cui viene rilasciato il Numero di Referenza. Qualsiasi Attivazione antecedente a tale data non sarà valida ai fini del Programma SOTA.
+
+Il MT si riserva il diritto di richiedere le informazioni necessarie a confermare che ogni Cima proposta soddisfi i criteri richiesti. Tali informazioni possono includere rimandi a liste pubbliche indipendenti (es. www.peaklist.org), pubblicazioni governative ufficiali, o i risultati di accurate analisi cartografiche. Nel caso in cui tali informazioni aggiuntive non vengano fornite, la Cima non verrà aggiunta al Programma.
+
+Gli aggiornamenti alle Associazioni verranno accettati solo una volta per anno civile. I Manager delle Associazioni dovrebbero scegliere un mese nel quale avverrà ogni futuro aggiornamento, tale scelta potrà essere modificata leggermente dal MT per distribuire meglio il carico di lavoro durante l'anno ed evitare carichi di lavoro ecessivi per gestire gli aggiornamenti. Il MT necessita ricevere gli aggiornamenti con un preavviso di due mesi per poter procedere rispettando le scadenze stabilite. Tutte le scadenze degli aggiornamenti dipendono dall'impegno e dal carico di lavoro del MT.
+
+### 3.6.1 Candidatura di potenziali nuove Cime
+
+Le proposte dei partecipanti di aggiungere o rimuovere Cime deve esere gestita in
+prima istanza dall'AM, il quale coordinerà il lavoro di modifica assieme al MT.
+I partecipanti che desiderano aggiungere una nuova Cima devono fornire la necessaria
+documentazione al Manager Regionale (Region Manager - RM) opportuno (Region Manager – manager Regionale) ed al AM per dimostrare che la Cima rispetta i criteri richiesti.
+L'AM quindi rilascerà una nuova Referenza ed una data di inizio validità in
+accordo con il MT; dopo tale data, e non prima, la nuova Cima sarà disponibile per le
+Attivazioni.
+
+### 3.6.2 Rimozione di Cime
+
+Una Cima verrà rimossa se si rivela non conforme ai criteri di inclusione (ad esempio
+nel caso in cui si disponga di informazioni altimetriche più accurate).
+Questo processo è spiegato piú sopra.
+I punteggi ottenuti in attivazioni antecedenti alla rimozione non andranno persi.
+
+###3.6.3 Aggiornamento delle Associazoni non conformi al P150m
+
+Alcune delle prime Associazioni sono nate senza l'utilizzo di ricerche accurate delle Cime o di software di analisi, per cui alcune Cime contengono degli errori.
+In molti casi il criterio della Prominenza non è stato ben compreso da coloro che facevano richiesta di creare nuove Associazini ed, allo stesso tempo e per le stesse ragioni, ciò non è stato rilevato da una analisi manuale da parte del SOTA MT.
+
+Il MT SOTA richiede che questi errori vengano corretti e che le Associazioni, che utilizzano erroneamente il criterio di P100m ma che dovrebbero utilizzare il P150m, vengano aggiornate a prescindere dalla loro popolarità. Non saranno concesse eccezioni a questa decisione in modo da ottenere una situazione equa tra tutte le Associazioni ed evitare l'ottenimento di "punti facili" grazie all'applicazione erronea del criterio del P100m ad un Associazione che non otterrebbe lo stesso criterio se entrasse a far parte del SOTA oggi. Tutto questo è permesso dai progressi ottenuti dagli strumenti di ricerca disponibili. I punteggi ottenuti in precedenza non saranno modificati da questi aggiornamenti.
+
+Attualmente esistono diverse Associazioni P100, che necessitano un aggiornamento a P150m ed esse stanno rivalutando la validità delle loro Cime. Mole altre sono state aggiornate nel corso dell'anno 2015.
+
+Da notare che tutte le Associazioni che sono entrate a far parte del SOTA con il criterio P100m, soddisfando la regola della Densità di Cime, dopo Dicembre 2012 non saranno coinvolte da queso provvedimento. (vedi 3.5.6)

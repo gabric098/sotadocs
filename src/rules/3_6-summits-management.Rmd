@@ -25,7 +25,7 @@ nel caso in cui si disponga di informazioni altimetriche più accurate).
 Questo processo è spiegato piú sopra.
 I punteggi ottenuti in attivazioni antecedenti alla rimozione non andranno persi.
 
-###3.6.3 Aggiornamento delle Associazoni non conformi al P150m
+### 3.6.3 Aggiornamento delle Associazoni non conformi al P150m
 
 Alcune delle prime Associazioni sono nate senza l'utilizzo di ricerche accurate delle Cime o di software di analisi, per cui alcune Cime contengono degli errori.
 In molti casi il criterio della Prominenza non è stato ben compreso da coloro che facevano richiesta di creare nuove Associazini ed, allo stesso tempo e per le stesse ragioni, ciò non è stato rilevato da una analisi manuale da parte del SOTA MT.
@@ -35,3 +35,7 @@ Il MT SOTA richiede che questi errori vengano corretti e che le Associazioni, ch
 Attualmente esistono diverse Associazioni P100, che necessitano un aggiornamento a P150m ed esse stanno rivalutando la validità delle loro Cime. Mole altre sono state aggiornate nel corso dell'anno 2015.
 
 Da notare che tutte le Associazioni che sono entrate a far parte del SOTA con il criterio P100m, soddisfando la regola della Densità di Cime, dopo Dicembre 2012 non saranno coinvolte da queso provvedimento. (vedi 3.5.6)
+
+### 3.6.4 Periodo prima dell'entrata in vigore di una nuova Lista di Cime per un'Associazione
+
+Nel caso di rimozione di Cime, puo' essere concesso un periodo di tempo fino ad un anno prima della rimozione effettiva per dare tempo ai partecipanti di attivare o cacciare tali Cime cosi' da poter completare i loro diplomi e per fornire flessibilita’ in termini di tempo per implementare i cambi. Sia in caso di rimozione o aggiunta di Cime, l’AM locale puo’ richiedere una data preferenziale per l’implementazione di tali cambi, dal momento che implementare l’aggiunta di nuove Cime il prima possibile porta un vantaggio ai partecipanti al Programma.

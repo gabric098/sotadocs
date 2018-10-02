@@ -1,3 +1,42 @@
 ## 3.7 Regole per gli Attivatori
 
-Tutte le Attivazioni devono utilizzare vie d’accesso leggittime e devono rispettare le regole vigenti in ambito locale per l’uso della zona. In particolare, gli Attivatori devono essicurarsi di essere in possesso dei permessi necessari per operare dalla Cima prescelta, o che l’accesso alla Cima sia abitualmente libero. Da notare che potrebbe non essere concesso accamparsi durante la notte in zone di montagna senza il permesso del proprietario dell’area. In particolare, gli Attivatori devono accertarsi che non esistano indicazioni di divieto d'accesso alla Cima dal momento che la possibilità di accedere alla Cima può cambiare nel tempo. Controllare i diritti d’accesso ad una Cima significa controllare siti web, mappe, avvisi nel paese più vicino, nel centro di informazioni turistiche o sul tracciato del sentiero stesso. Attivare una Cima senza avere ricevuto, esplicitamente o implicitamente (in caso di “accesso libero”), il permesso invaliderà l’attivazione.
+Tutte le Attivazioni devono utilizzare vie d'accesso leggittime e devono rispettare le regole vigenti in ambito locale per l'uso della zona. In particolare, gli Attivatori devono essicurarsi di essere in possesso dei permessi necessari per operare dalla Cima prescelta, o che l'accesso alla Cima sia abitualmente libero. Da notare che potrebbe non essere concesso accamparsi durante la notte in zone di montagna senza il permesso del proprietario dell'area. In particolare, gli Attivatori devono accertarsi che non esistano indicazioni di divieto d'accesso alla Cima dal momento che la possibilità di accedere alla Cima può cambiare nel tempo. Controllare i diritti d'accesso ad una Cima significa controllare siti web, mappe, avvisi nel paese più vicino, nel centro di informazioni turistiche o sul tracciato del sentiero stesso. Attivare una Cima senza avere ricevuto, esplicitamente o implicitamente (in caso di “accesso libero”), il permesso invaliderà l'attivazione.
+
+### 3.7.1 Criteri di validità per le Attivazioni
+
+Perché un'Attivazione possa essere considerata valida, deve soddisfare i seguenti criteri:
+1. L'Attivatore deve essere titolare di una licenza appropriata per trasmettere. L'attivatore deve avere una licenza o una licenza reciproca/ospite/CEPT per il paese dove l'Attivazione ha luogo. Operare senza una licenza valida sotto la supervisione di un'altro OM non è concesso. L'utilizzo di una licenza di un club è permesso solo se l'Attivazione viene condotta secondo le stesse condizioni concesse della licenza dell'Attivatore in termini di limiti di potenza e frequenza.
+Da notare: in UK una licenza di un club è solitamente assegnata ad un OM “Full License”. OM con licenze Foundation o Intermetiate non debbono utilizzare un callsign di un club a meno che non lo facciano sotto la supervisione di un OM “Full License”.
+
+2. Tutte le Attivazioni devono rispettare i regolamenti delle licenze radio amatoriali e devono utilizzare le bande radioamatoriali concesse dal paese dove l'Associazione è situata.
+
+3. Le attivazioni non devono essere condotte dentro o nelle immediate vicinanze di un veicolo a motore. È permesso l'uso della bicicletta (non-motorizzata) o di animali per raggiungere la Zona di Attivazione. (vedi http://reflector.sota.org.uk/t/first-activation-in-a-long-while/5619)
+
+4. La Postazione di Attivazione (Operating Position, OP) deve essere all'interno della Zona di Attivazione. La OP deve trovarsi all'interno di una linea di livello chiusa corrispondente alla massima Distanza Verticale sotto la Cima. (Normalmente la linea di contorno si trova 25 metri sotto la cima del rilievo). La OP è intesa come la posizione dell'operatore durante l'Attivazione.
+
+5. Tutto il materiale deve essere trasportato dalla persona o il team che conduce l'Attivazione.
+
+6. Tutti gli apparati devono essere alimentati da una fonte di alimentazione portatile (batterie, pannelli solari, ecc..). È espressamente proibita ogni attività svolta utilizzando sorgenti di energia installate in loco o generatori a combustibile fossile.
+
+7. Tutte le attivazioni devono attenersi alle eventuali limitazioni riguardanti l'uso di apparecchiature trasmittenti vigenti sulla Cima.
+
+8. Almeno un QSO deve essere completato dalla Cima per essere considerata un'Attivazione. Perché un Attivazione possa ottenere i punti attribuiti alla Cima, devono essere realizzati un minimo di 4 QSO, ogniuno dei quali con una stazione differente. I QSO devono comprendere uno scambio di callsign e di RS(T), è caldamente raccomandato trasmettere la referenza della Cima ad ogni contatto. Nel caso in cui la referenza della Cima non sia trasmessa ad ogni QSO (per esempio in un QSO lento in CW) dovrebbe essere comunque ripetuta di frequente. Nota: Gli spot sul reflector SOTA spesso contengono referenze sbagliate. Si raccomanda pertanto di chiedere la referenza della Cima direttamente all'Attivatore in caso non l'abbiate ascoltata.
+
+9. QSOs con altri operatori nella stessa “Activation Zone” non contano per raggiungere il numero minimo valido per l'Attivazione.
+
+10. QSOs via ripetitori terrestri non sono QSO validi per un'Attivazione. Sono invece permessi collegamenti via satellite o via ripetitori su palloni aerostatici.
+
+11. I punti Attivatore vengono assegnati all'operatore a prescindere dal callsign utilizzato. L'operatore deve avere il diritto di utilizzare il callsign. In caso di un'Attivazione multi operatore, ogni operatore puo' richiedere i punti Attivatore. Ogni Attivatore deve aver completato il numero minimo di QSO menzionati sopra per poter richiedere i punti Attivatore.
+
+12. Per poter richiedere i punti gli Attivatori devono inviare un log dell'Attivazione. In caso non ci siano punti da richiedere, gli Attivatori devono comunque inviare i log cosicchè i punti dei Cacciatori possano essere confermati. I log possono essere inviati completando un formulario sul sito SOTA Database o tramite un file di log. Tutti i dettagli sul sito SOTA.
+
+13. Una Cima che sorge esattamente sul confine tra due o più Associazioni può appartenere solo ad una Associazione. La cima può appartenere solo all'Associazione che contiene l'area maggiore della Zona di Attivazione entro i propri confini. Un'Attivazione valida può comunque essere condotta da qualunque punto della Zona di Attivazione, inclusa la parte non compresa nel territorio dell'Associazione a cui la Cima appartiene. A meno di limiti imposti della licenza, la posizione dell'Attivatore è ritenuta essere la Operating Position.
+
+14. Tutte le attività SOTA devono essere condotte nello spirito del Programma. In caso venga determinato che un'Attivazione non è stata condotta nello spirito del Programma, i punti per l'Attivazione verranno persi e potranno essere applicate ulteriori sanzioni.
+
+15. In caso esista una stessa Cima referenziata da due distinte Associazioni, l'attivatore deve rimanere nella Zona di Attivazione relativa all'Associazione/Paese interessato. Nel caso in cui sia teoricamente possibile attivare la stessa Cima con una referenza di Associazione differente muovendosi solo per un breve tratto, questo deve essere segnalato ai rispettivi Association Managers che risolveranno la questione, discutendo e decidendo a chi “appartiene” la referenza. Questo significa giungere ad un'accordo amichevole. Se gli Association Managers non sono in grado di giungere ad un accordo, il Management Team si riserva il diritto di decidere a quale Associazione assegnare la Cima.
+
+### 3.7.2 Punteggio
+
+L’Attivatore richiede i punti per una Cima a seguito di un'Attivazione a prescindere dal numero totale di QSOs completati una volta raggiunto il minimo necessario per ritenere valida l’Attivazione. Una Cima può essere attivata tutte le volte che si desidera ma un singolo Attivatore può richiedere i punti per tale Cima solo una volta in ogni anno (considerato dal 1 Gennaio al 31 Dicembre). In caso che venga successivamente condotta un'Attivazione durante un periodo dell’anno durante il quale vige un Bonus Stagionale, il database aggiungerà automaticamente il Bonus Stagionale al punteggio dell’Attivatore.
+Le cartoline QSL non sono richieste.

@@ -25,3 +25,6 @@ Il Programma SOTA incoraggia sia l'attivita' e la sperimentazione radioamatorial
 
 ```{r child = 'rules/3_7_activators_rules.Rmd'}
 ```
+
+```{r child = 'rules/3_8_chasers_rules.Rmd'}
+```

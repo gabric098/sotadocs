@@ -40,3 +40,43 @@ Da notare: in UK una licenza di un club è solitamente assegnata ad un OM “Ful
 
 L’Attivatore richiede i punti per una Cima a seguito di un'Attivazione a prescindere dal numero totale di QSOs completati una volta raggiunto il minimo necessario per ritenere valida l’Attivazione. Una Cima può essere attivata tutte le volte che si desidera ma un singolo Attivatore può richiedere i punti per tale Cima solo una volta in ogni anno (considerato dal 1 Gennaio al 31 Dicembre). In caso che venga successivamente condotta un'Attivazione durante un periodo dell’anno durante il quale vige un Bonus Stagionale, il database aggiungerà automaticamente il Bonus Stagionale al punteggio dell’Attivatore.
 Le cartoline QSL non sono richieste.
+
+### 3.7.3 Codice di condotta
+
+La partecipazione al Programma SOTA è aperta a tutti, sebbene per l’uso di certi servizi come SOTAwatch e SOTA database è richiesta una registrazione. Il Management Team si riserva il diritto di revocare l'accesso a tali servizi e di rimuovere dati inseriti in precedenza nel caso in cui si verifichino comportamenti contrari allo spirito del SOTA da parte di qualsiasi partecipante. In questo, si spera raro, caso la decisione del Management Team sarà inappellabile. Alcuni esempi di questo tipo di comportamenti inaccettabili (elenco non esaustivo):
+
+1. Persistenti violazioni della Acceptable Use Policy su SOTAwatch
+
+2. Richiedere punti per contatti che non sono validi per il SOTA
+
+3. Minacciare o insultare membri del Management Team o altri partecipanti al Programma
+
+4. Persistenti violazioni delle regole del SOTA
+
+5. Abuso del software SOTA (come aggirare i controlli di sicurezza o impersonare un altro utente)
+
+6. Comportamenti che possano screditare il SOTA
+
+Esempi di questi tipi comportamento includono la mancanza di applicazione delle seguenti regole di buon senso:
+
+Gli attivatori non devono causare alcun danno all’ambiente. Questo include sia danni intenzionali che danni causati da disattenzione verso la montagna stessa, muri, recinti, bestiame, costruzioni, animali selvatici, alberi, piante ecc… Prestare attenzione a non lasciare rifiuti. Oltre ad essere una cosa sgradevole puo' anche essere pericolosa per il bestiame e gli animali selvatici. Dove esista rischio di incendi gli Attivatori devono prestare cautela a non causarne.
+
+Gli Attivatori devono operare con la dovuta considerazione verso altre persone e animali presenti sulle Cime. Rumore eccessivo, installazioni sconsiderate di antenne e apparati non è accettabile e può screditare il Programma. Nessuna violazione di proprietà privata può essere giustificata e il volere del proprietario della zona deve rimanere sovrano. Quando si parcheggi un veicolo durante la preparazione di un Attivazione, si faccia attenzione a non ostruire strade, sentieri e passaggi. Se il tuo veicolo reca un adesivo SOTA e' ancora piu' facile che cattivi comportamenti vengano associati al Programma!
+
+Attivatori e Cacciatori devono sempre operare secondo i limiti consentiti dalla loro licenza. La partecipazione al Programma SOTA offre molta visibilità al comportamento che si assume on-air, pertanto pratiche scorrette quali l’utilizzo di linguaggio inappropriato o causare volontariamente interferenze non sarà tollerato.
+
+I Cacciatori devono operare con riguardo per aiutare l’Attivatore il quale potrebbe operare in condizioni difficili. È essenziale mantenere un comportamento ordinato e rispettoso durante le chiamate agli Attivatori.
+Pratiche scorrette quali chiamate sopra le stazioni che l’Attivatore stà contattando, ripetizione di chiamate in coda al pile-up per essere l’ultima stazione ascoltata nel pile up e chiamate quando non si ascolta il corrispondente, rallentano la frequenza dei contatti da parte dell’Attivatore costringendolo inutilmente a rimanere sulla Cima più a lungo del necessario.
+Fare passaggi eccessivamente lunghi, dare una descrizione dettagliata di tutta la propria stazione e porre domande irrilevanti rallenta l’Attivatore e fa infuriare gli altri Cacciatori. Accordare sulla frequenza dell’Attivatore prima di eseguire la chiamata è l’apice delle cattive maniere. Continui comportamenti negativi da parte dei Cacciatori rovinano il divertimento di operare in SOTA. Per evitare che questo accada potranno essere applicate delle sanzioni. Tali sanzioni possono includere l’esclusione temporanea dal database SOTA e dai servizi web, mentre i disturbatori ostinati possono essere puniti con l’esclusione permanente dal SOTA.
+
+Una regola simile si applica agli utenti del servizio on-line SOTAwatch in caso violino l’AUP (Acceptable User Policy) postando commenti offensivi o ingiustificati.
+
+Le tabelle degli spot e degli alert debbono essere utilizzati solo per indicare frequenza, modo operativo, ora e callsign, nessun altro messaggio. Chiunque violi in modo persistente questa regola può incorrere in sanzioni.
+
+La regola d’oro e che tutti i partecipanti agiscano seguendo lo spirito del Programma.
+
+### 3.7.4 Capacità di condurre un’attivazione
+
+Gli Attivatori devono essere in grado di condurre l’Attivazione prescelta e devono portare con loro l’equipaggiamento idoneo, tenendo in conto il tipo di terreno, le condizioni meteo ecc… Gli Attivatori partecipano al Programma totalmente a loro rischio e il Programma non accetterà nessuna responsabilità in caso di infortunio, morte o qualsiasi altra perdita.
+
+Si ricorda agli Attivatori che l’escursionismo e la scalata in montagna sono attività intrinsecamente pericolose. In montagna si possono verificare, e si verificano, incidenti a prescindere dal fatto di partecipare o meno al Programma SOTA.

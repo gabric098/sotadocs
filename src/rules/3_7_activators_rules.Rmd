@@ -5,6 +5,7 @@ Tutte le Attivazioni devono utilizzare vie d'accesso leggittime e devono rispett
 ### 3.7.1 Criteri di validità per le Attivazioni
 
 Perché un'Attivazione possa essere considerata valida, deve soddisfare i seguenti criteri:
+
 1. L'Attivatore deve essere titolare di una licenza appropriata per trasmettere. L'attivatore deve avere una licenza o una licenza reciproca/ospite/CEPT per il paese dove l'Attivazione ha luogo. Operare senza una licenza valida sotto la supervisione di un'altro OM non è concesso. L'utilizzo di una licenza di un club è permesso solo se l'Attivazione viene condotta secondo le stesse condizioni concesse della licenza dell'Attivatore in termini di limiti di potenza e frequenza.
 Da notare: in UK una licenza di un club è solitamente assegnata ad un OM “Full License”. OM con licenze Foundation o Intermetiate non debbono utilizzare un callsign di un club a meno che non lo facciano sotto la supervisione di un OM “Full License”.
 

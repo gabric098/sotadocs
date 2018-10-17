@@ -1,1 +1,17 @@
 ## 3.8 Regole per i Cacciatori
+
+1. Il Cacciatore deve essere titolare di una licenza appropriata per trasmettere.
+
+2. Il Cacciatore deve fare un QSO con l’Attivatore nel quale devono essere scambiati per lo meno i callsign e i rapporti RS(T). Quando possibile, anche il numero di referenza SOTA della Cima deve essere ottenuta durante il QSO.
+
+3. A partire dal 1 Gennaio 2004, viene considerato valido ai fini del punteggio solo un QSO effettuato con una specifica Cima durante ogni giorno (definito dalle 00:00 alle 23.59 UTC).
+
+4. QSOs realizzati via ripetitori terrestri non vengono conteggiati nel punteggio, QSOs realizzati via satellite, aquilone o palloni aerostatici, sono considerati validi ai fini del punteggio.
+
+5. I Cacciatori che vogliono partacipare al diploma devono inviare un log che contenga i dettagli di tutti i QSOs con gli Attivatori per i quali si vogliono ricevere punti.
+
+6. Non sono richieste cartoline QSL dal momento che il database SOTA può essere utilizzato per verificare i vostri QSOs.
+
+7. Un Attivatore può richiedere punti come Cacciatore per i QSOs effettuati durante la propria Attivazione con Attivatori su altre Cime.
+
+8. Il punteggio relativo alla Cima viene conteggiato una sola volta anche in caso di QSO multipli con la stessa Attivazione.

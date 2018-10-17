@@ -28,3 +28,12 @@ Il Programma SOTA incoraggia sia l'attivita' e la sperimentazione radioamatorial
 
 ```{r child = 'rules/3_8_chasers_rules.Rmd'}
 ```
+
+```{r child = 'rules/3_9_swl_rules.Rmd'}
+```
+
+```{r child = 'rules/3_10_modes_bands.Rmd'}
+```
+
+```{r child = 'rules/3_11_scoring.Rmd'}
+```

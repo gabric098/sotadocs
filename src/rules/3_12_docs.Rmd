@@ -1,0 +1,21 @@
+## 3.12 Documentazione
+
+La raccolta della documentazione SOTA (internazionale) e' costituita da documenti Microsoft Word e pubblicata in formato Adobe PDF. Tutti i documenti SOTA devono essere formattati in modo da essere conformi allo stile SOTA. Vengono forniti templates su richiesta.
+
+Ogni documento ottiene un numero identificativo univoco che e' rilasciato del Management Team. Esso indica che il documento e' stato ufficialmente pubblicato. Viene mantenuto inoltre un registro con la lista di tutti i documenti ufficialmente pubblicati.
+
+## 3.12.1 Regole generali e gestione dei diplomi
+
+1. Le Regole Generali (questo documento) forniscono la struttura entro la quale opera il Progamma. E' mantenuto dal Management Team. E' scritto in Inglese nel modo piu' chiaro possibile. Sul sito web SOTA sono disponibili varie traduzioni in altre lingue!
+
+2. Le Associazioni che non sono disposte ad attenersi alle Regole Generali saranno impossibilitate a presentare una lista di Cime valide per il Programma SOTA. Questo non limita in alcun modo gli OM o SWL di tale Associazione i quali potranno partecipare al programma SOTA attivando o "Cacciando" Cime valide di qualsiasi altra Associazione.
+
+3. Il Management Team, il quale gestisce il sistema dei diplomi, si sforzera' al massimo per assicurare che le Associazioni seguano le Regole Geneali. In caso che i progressi tecnologici lo consentano, verra' condotta una revisione della validita' delle Cime di un Associazione se necessario - ogni Associazione puo' essere soggetta a queste revisioni periodiche. Queste revisioni possono rivelare che lo status quo e' accettabile, che talune Cime non sono piu' valide o che altre Cime che sono valide possono essere incluse durante la revisione annuale del Manuale di Riferimento dell'Associazione. Ad esempio, a seguito di una revisione dei dati di controllo nel Relative Peaks of Britain, sono state eliminate 15 Cime dall'Associazione UK e ne sono state aggiunte 16.
+
+4. Nessuna Associazione e' esonerata dalle regole descritte nel documento Regole Generali.
+
+5. Nel caso in cui il Management Team, per qualsiasi motivo, abbia commesso un qualsiasi errore, sia a causa di un errore umano o a causa di una cattiva valutazione, si impegnera' a correggere l'errore, coordinandosi con la Associazione, per garantire il rispetto delle Regole Generali. In caso che tale correzione abbia un effetto sulle Cime disponibili per un'Associazione, il MT concedera' un perido di adeguamento prima di rendere effettiva la nuova lista di Cime per permettere ai partecipanti al Programma di Attivare o Cacciare le Cime che verranno eliminate dal Programma.
+
+6. Quando sono stati rilevati errori nelle liste delle Cime, o Cime duplicate tra Associazioni, il MT ha sempre ricevuto piena cooperazione dagli Association Managers coinvolti per eliminare tali discrepanze ed assicurare che le Associazioni siano pienamente in linea con le Regole Generali. La maggioranza di tali Associazioni, principlamente situate in Europa, sono ora, o saranno presto, pienamente in linea con le Regole Generali. I problemi affrontati dagli Association Managers sono stati risolti in maniera positiva, in linea con lo spirito di cooperazione che tutti riconosciamo nel mondo radioamatoriale.
+
+7. Non c'e' dubbimo che il SOTA sia un Programma internazionale gestito da un piccolo gruppo di volontari; SOTA non e' un club, i partecipanti non sono membri e la decisione di prendere parte o meno in questo Programma dipende solo da una scelta personale. I vari servizi offerti gratuitamente - SOTAwatch, il database SOTA, SOTA Cluster, il reflector - sono finanziati esclusivamente dalla vendita dei diplomi e dei gadgets SOTA, a parte questo non esiste alcun costo per chiunque voglia partecipare al Programma ma è opportuno sottolineare che la decisione finale circa l'idoneità dei premi previsti da questo programma spetta al Management Team.

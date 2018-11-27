@@ -18,4 +18,42 @@ Ogni documento ottiene un numero identificativo univoco che e' rilasciato del Ma
 
 6. Quando sono stati rilevati errori nelle liste delle Cime, o Cime duplicate tra Associazioni, il MT ha sempre ricevuto piena cooperazione dagli Association Managers coinvolti per eliminare tali discrepanze ed assicurare che le Associazioni siano pienamente in linea con le Regole Generali. La maggioranza di tali Associazioni, principlamente situate in Europa, sono ora, o saranno presto, pienamente in linea con le Regole Generali. I problemi affrontati dagli Association Managers sono stati risolti in maniera positiva, in linea con lo spirito di cooperazione che tutti riconosciamo nel mondo radioamatoriale.
 
-7. Non c'e' dubbimo che il SOTA sia un Programma internazionale gestito da un piccolo gruppo di volontari; SOTA non e' un club, i partecipanti non sono membri e la decisione di prendere parte o meno in questo Programma dipende solo da una scelta personale. I vari servizi offerti gratuitamente - SOTAwatch, il database SOTA, SOTA Cluster, il reflector - sono finanziati esclusivamente dalla vendita dei diplomi e dei gadgets SOTA, a parte questo non esiste alcun costo per chiunque voglia partecipare al Programma ma è opportuno sottolineare che la decisione finale circa l'idoneità dei premi previsti da questo programma spetta al Management Team.
+7. Non c'e' dubbio che il SOTA sia un Programma internazionale gestito da un piccolo gruppo di volontari; SOTA non e' un club, i partecipanti non sono membri e la decisione di prendere parte o meno in questo Programma dipende solo da una scelta personale. I vari servizi offerti gratuitamente - SOTAwatch, il database SOTA, SOTA Cluster, il reflector - sono finanziati esclusivamente dalla vendita dei diplomi e dei gadgets SOTA, a parte questo non esiste alcun costo per chiunque voglia partecipare al Programma ma è opportuno sottolineare che la decisione finale circa l'idoneità dei premi previsti da questo programma spetta al Management Team.
+
+## 3.12.2 Manuale di riferimento dell'Associazione
+
+Ogni Association Manager (AM) deve redigere un Manuale di Riferimento dell'Associazione (ARM) che deve includere tutti i dati che personalizzano il Programma per adattarlo ai bisogni della specifica Associazione.
+
+Gli ARM debbono essere pubblicati in Inglese e, opzionalmente, in ogni lingua che risulti opportuna per una specifica Associazione.
+
+L'ARM deve comprendere le seguenti sezioni:
+
+- Capitolo 1 - Storico delle revisioni.
+
+- Capitolo 2 - Dati di riferimento dell'Associazione. Questo capitolo deve contenere, come minimo, i parametri dell'Associazione ma puo' anche contenere informazioni generali dirette ai potenziali partecipanti.
+
+- Capitolo 3 - Dati di riferimento sulle Cime. Queco capitolo contiene la lista delle Cime idonee in formato tabulare. Le tabelle possono essere divise per Regione e possono contenere informazioni specifiche per una data Regione dirette ai potenziali partecipanti. Le minime informazioni richieste per ogni tabella sono:
+
+    1. Numero di riferimento SOTA della Cima.
+
+    2. Il nome della Cima. Preferibilmente si indichi il nome usato sulle mappe locali. Nel caso tale nome non esista, e' possibile usare il nome usato localmente per indicare la Cima. Se anche questo nome non esiste, la Cima puo' essere identificata con la sua Altitudine.
+
+    3. La posizione, con una precisione di almeno 250 metri, indicata da longitudine e latitudine in formato decimale con segno. La posizione puo' essere addizionalmente specificata in altri formati come il sistema Maidenhead o altri sistemi di riferimento riconosciuti a livello nazionale.
+
+    4. L'Altitudine della Cima in metri s.l.m. (sul livello del mare)
+
+    5. L'Altitudine della Cima in piedi s.l.m. (sul livello del mare)
+
+    6. Il punteggio associato alla Cima.
+
+L'AM e' responsabile dell'aggiornamento dell'ARM nel caso nuove cime vengano aggiunte o altri cambi siano necessari. Nel caso il manuale venga aggiornato, l'AM deve inviare la versione aggiornata del Manuale, e i relativi files di database al MT. La data in cui tali cambi entreranno in vigore verra' concordata tra l'AM e il MT.
+
+L'ARM e' approvato dal MT. Una Associazione diventa operativa quando il suo ARM viene approvato.
+
+## 3.12.3 Altri documenti
+
+Altri documenti potranno essere prodotti di tanto in tanto.
+
+## 3.12.4 Priorita'
+
+In caso di conflitto, le Regole Generali prevalgono sul Manuale di Riferimento dell'Associazione. Le Regole Generali prevalgono anche su qualsiasi altro documento relativo al Programma, ufficiale o meno; es. Lineeguida per l'Attivatore, ecc... Nel caso in cui le Regole Generali siano tradotte in altre lingue, in caso di conflitto, la versione Inglese prevale su qualsiasi versione tradotta.

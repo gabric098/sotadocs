@@ -1,0 +1,30 @@
+## 3.13 Diplomi
+
+SOTA e' l'unico Programma autorizzato a rilasciare i diplomi ufficiali SOTA utilizzando il nome e logo registrati. Le Associazioni Locali possono rilasciare diplomi ma l'utilizzo in essi del nome e logo SOTA registrati deve essere autorizzato dal MT.
+
+## 3.13.1 Riconoscimenti del Programma
+
+I certificati e le placche sono rilasciati con il fine di riconoscere il raggiungimento di un obiettivo nell'ambito dell'intero Programma SOTA, includendo tutte le Associazioni.
+
+Le categorie di riconoscimenti includono:
+
+- Diploma "tutte le Cime" (All Summits). Qualsiasi Cima viene considerata, a patto che rispetti le regole 3.7, 3.8 o 3.9.
+
+- Diploma "Cime uniche" (Unique Summits). Ogni Cima viene considerata solo una volta, indipendentemente dal numero di Attivazioni valide.
+
+Verranno rilasciati Certificati per il raggiungimento dei 100, 250, 500, 1000, 2500, 5000 punti, e cosi' via per ogniuna delle sopracitate categorie. Sono rilasciati Certificati distinti per le categorie Attivatori, Cacciatori e SWL.
+Per la categoria "tutte le Cime", saranno rilasciati a richiesta i seguenti trofei:
+
+- Trofeo "Mountain Goat" (capra di montagna) per Attivatori che raggiungano i 1000 punti.
+
+- Trofeo "Shack Sloth" (bradipo da stazione) per Cacciatori che raggiungano i 1000 punti.
+
+- Trofeo "SWL" per radio ascoltatori che ottengono i 1000 punti.
+
+Tutti i sopracitati Certificati e Trofei dipendono dai dati dei log caricati nel database on-line e vengono rilasciati, su richiesta, dall'amministratore dei diplomi (Awards Administrator). Un contributo e' richiesto per coprire i costi.
+
+Altri riconoscimenti sono rilasciati. Questi includono un Summit to Summit Award (Diploma Cima a Cima), un diploma "SOTA Completo" (SOTA Complete) per chi partecipa al Programma sia come Attivatore che come Cacciatore, un diploma "Mountain Explorer" (esploratore di montagna) per attivazione di Cime appartenenti a differenti Associazioni, il corrispondente diploma "Mountain Hunter" (cacciatore di montagna) per "cacciare" attivazioni di Cime appartenenti a differenti Associazioni, in piu' di un continente nelle categorie piu' alte, un diploma commemorativo dei 10 anni di una Associazione, e il diploma Microonde il quale ha un criterio di validita' diverso dagli altri. Inoltre sono disponibili diplomi per i 12, 10 e 6 meters Challenge.
+
+Maggiori dettagli dei diplomi sopracitati sono disponibili on-line sul sito web del [SOTA Shop](http://www.sota-shop.co.uk/).
+
+Di tanto in tanto verranno organizzati SOTA Challenges (sfide SOTA). Il primo SOTA Challenge e' stato quello di incentivare l'attivita' sulla banda dei 12 metri, tradizionalmente sotto utilizzata.

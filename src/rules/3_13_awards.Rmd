@@ -1,6 +1,6 @@
-## 3.13 Diplomi
+## 3.13 Riconoscimenti
 
-SOTA e' l'unico Programma autorizzato a rilasciare i diplomi ufficiali SOTA utilizzando il nome e logo registrati. Le Associazioni Locali possono rilasciare diplomi ma l'utilizzo in essi del nome e logo SOTA registrati deve essere autorizzato dal MT.
+SOTA e' l'unico Programma autorizzato a rilasciare i riconoscimenti ufficiali SOTA utilizzando il nome e logo registrati. Le Associazioni Locali possono rilasciare riconoscimenti ma l'utilizzo in essi del nome e logo SOTA registrati deve essere autorizzato dal MT.
 
 ## 3.13.1 Riconoscimenti del Programma
 
@@ -12,7 +12,7 @@ Le categorie di riconoscimenti includono:
 
 - Diploma "Cime uniche" (Unique Summits). Ogni Cima viene considerata solo una volta, indipendentemente dal numero di Attivazioni valide.
 
-Verranno rilasciati Certificati per il raggiungimento dei 100, 250, 500, 1000, 2500, 5000 punti, e cosi' via per ogniuna delle sopracitate categorie. Sono rilasciati Certificati distinti per le categorie Attivatori, Cacciatori e SWL.
+Verranno rilasciati Certificati per il raggiungimento dei 100, 250, 500, 1000, 2500, 5000 punti, e cosi' via per ogniuna delle sopracitate categorie. Per ogni categoria Attivatori, Cacciatori e SWL, vengono rilasciati Certificati distinti.
 Per la categoria "tutte le Cime", saranno rilasciati a richiesta i seguenti trofei:
 
 - Trofeo "Mountain Goat" (capra di montagna) per Attivatori che raggiungano i 1000 punti.
@@ -23,8 +23,12 @@ Per la categoria "tutte le Cime", saranno rilasciati a richiesta i seguenti trof
 
 Tutti i sopracitati Certificati e Trofei dipendono dai dati dei log caricati nel database on-line e vengono rilasciati, su richiesta, dall'amministratore dei diplomi (Awards Administrator). Un contributo e' richiesto per coprire i costi.
 
-Altri riconoscimenti sono rilasciati. Questi includono un Summit to Summit Award (Diploma Cima a Cima), un diploma "SOTA Completo" (SOTA Complete) per chi partecipa al Programma sia come Attivatore che come Cacciatore, un diploma "Mountain Explorer" (esploratore di montagna) per attivazione di Cime appartenenti a differenti Associazioni, il corrispondente diploma "Mountain Hunter" (cacciatore di montagna) per "cacciare" attivazioni di Cime appartenenti a differenti Associazioni, in piu' di un continente nelle categorie piu' alte, un diploma commemorativo dei 10 anni di una Associazione, e il diploma Microonde il quale ha un criterio di validita' diverso dagli altri. Inoltre sono disponibili diplomi per i 12, 10 e 6 meters Challenge.
+Esistono inotre altri riconoscimenti. Questi includono un Summit to Summit Award (Diploma Cima a Cima), un diploma "SOTA Completo" (SOTA Complete) per chi partecipa al Programma sia come Attivatore che come Cacciatore, un diploma "Mountain Explorer" (esploratore di montagna) per attivazione di Cime appartenenti a differenti Associazioni, il corrispondente diploma "Mountain Hunter" (cacciatore di montagna) per "cacciare" attivazioni di Cime appartenenti a differenti Associazioni, in piu' di un continente nelle categorie piu' alte, un diploma commemorativo dei 10 anni di una Associazione, e il diploma Microonde il quale ha un criterio di validita' diverso dagli altri. Inoltre sono disponibili diplomi per i 12, 10 e 6 meters Challenge.
 
 Maggiori dettagli dei diplomi sopracitati sono disponibili on-line sul sito web del [SOTA Shop](http://www.sota-shop.co.uk/).
 
-Di tanto in tanto verranno organizzati SOTA Challenges (sfide SOTA). Il primo SOTA Challenge e' stato quello di incentivare l'attivita' sulla banda dei 12 metri, tradizionalmente sotto utilizzata.
+Di tanto in tanto verranno organizzati SOTA Challenges (sfide SOTA). Il primo SOTA Challenge e' stato quello di incentivare l'attivita' sulla banda dei 12 metri, tradizionalmente sottoutilizzata.
+
+## 3.13.2 Altri riconoscimenti SOTA
+
+Oltre ai certificati e trofei descritti nel capitolo precedente, e' possibile che un'Associazione, un gruppo o alcuni partecimanti definiscano il proprio sistema di riconoscimenti basato sui dati delle Cime sota (o una parte di essi). Tali riconoscimenti possono essere validi all'interno dei confini di una singola Associazione, o comprendere piu' Associazioni (es. le Alpi o gli Stati Uniti). Questi riconoscimenti possono essere descritti sul sito ufficiale SOTA previa approvazione del MT. In caso di necessita' e' disponibile assistenza per la gestione dei riconoscimenti.

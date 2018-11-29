@@ -4,7 +4,7 @@ author: "Gabriele Antonini"
 version: "1.0"
 date:
 output:
-    html_document:
+    pdf_document:
         toc: true
         toc_depth: 2
 ---
@@ -27,3 +27,5 @@ Data rilascio: 23/09/2018
 
 ```{r child = '3-rules.Rmd'}
 ```
+
+**Il Direttivo SOTA**

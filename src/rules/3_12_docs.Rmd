@@ -1,24 +1,24 @@
 ## 3.12 Documentazione
 
-La raccolta della documentazione SOTA (internazionale) e' costituita da documenti Microsoft Word e pubblicata in formato Adobe PDF. Tutti i documenti SOTA devono essere formattati in modo da essere conformi allo stile SOTA. Vengono forniti templates su richiesta.
+La raccolta della documentazione SOTA (internazionale) è costituita da documenti Microsoft Word e pubblicata in formato Adobe PDF. Tutti i documenti SOTA devono essere formattati in modo da essere conformi allo stile SOTA. Sono disponibili su richiesta modelli.
 
-Ogni documento ottiene un numero identificativo univoco che e' rilasciato del Management Team. Esso indica che il documento e' stato ufficialmente pubblicato. Viene mantenuto inoltre un registro con la lista di tutti i documenti ufficialmente pubblicati.
+Ogni documento ottiene un numero identificativo univoco che è rilasciato del Management Team. Esso indica che il documento è stato ufficialmente pubblicato. Viene mantenuto inoltre un registro con la lista di tutti i documenti ufficialmente pubblicati.
 
 ## 3.12.1 Regole generali e gestione dei diplomi
 
-1. Le Regole Generali (questo documento) forniscono la struttura entro la quale opera il Progamma. E' mantenuto dal Management Team. E' scritto in Inglese nel modo piu' chiaro possibile. Sul sito web SOTA sono disponibili varie traduzioni in altre lingue!
+1. Le Regole Generali (questo documento) forniscono la struttura entro la quale opera il Programma. è mantenuto dal Management Team. è scritto in Inglese nel modo più chiaro possibile. Sul sito web SOTA sono disponibili varie traduzioni in altre lingue!
 
 2. Le Associazioni che non sono disposte ad attenersi alle Regole Generali saranno impossibilitate a presentare una lista di Cime valide per il Programma SOTA. Questo non limita in alcun modo gli OM o SWL di tale Associazione i quali potranno partecipare al programma SOTA attivando o "Cacciando" Cime valide di qualsiasi altra Associazione.
 
-3. Il Management Team, il quale gestisce il sistema dei diplomi, si sforzera' al massimo per assicurare che le Associazioni seguano le Regole Geneali. In caso che i progressi tecnologici lo consentano, verra' condotta una revisione della validita' delle Cime di un Associazione se necessario - ogni Associazione puo' essere soggetta a queste revisioni periodiche. Queste revisioni possono rivelare che lo status quo e' accettabile, che talune Cime non sono piu' valide o che altre Cime che sono valide possono essere incluse durante la revisione annuale del Manuale di Riferimento dell'Associazione. Ad esempio, a seguito di una revisione dei dati di controllo nel Relative Peaks of Britain, sono state eliminate 15 Cime dall'Associazione UK e ne sono state aggiunte 16.
+3. Il Management Team, il quale gestisce il sistema dei diplomi, si sforzerà al massimo per assicurare che le Associazioni seguano le Regole Generali. In caso che i progressi tecnologici lo consentano, verrà condotta una revisione della validità delle Cime di un Associazione se necessario - ogni Associazione può essere soggetta a queste revisioni periodiche. Queste revisioni possono rivelare che lo status quo è accettabile, che talune Cime non sono più valide o che altre Cime che sono valide possono essere incluse durante la revisione annuale del Manuale di Riferimento dell'Associazione. Ad esempio, a seguito di una revisione dei dati di controllo nel Relative Peaks of Britain, sono state eliminate 15 Cime dall'Associazione UK e ne sono state aggiunte 16.
 
-4. Nessuna Associazione e' esonerata dalle regole descritte nel documento Regole Generali.
+4. Nessuna Associazione è esonerata dalle regole descritte nel documento Regole Generali.
 
-5. Nel caso in cui il Management Team, per qualsiasi motivo, abbia commesso un qualsiasi errore, sia a causa di un errore umano o a causa di una cattiva valutazione, si impegnera' a correggere l'errore, coordinandosi con la Associazione, per garantire il rispetto delle Regole Generali. In caso che tale correzione abbia un effetto sulle Cime disponibili per un'Associazione, il MT concedera' un perido di adeguamento prima di rendere effettiva la nuova lista di Cime per permettere ai partecipanti al Programma di Attivare o Cacciare le Cime che verranno eliminate dal Programma.
+5. Nel caso in cui il Management Team, per qualsiasi motivo, abbia commesso un qualsiasi errore, sia a causa di un errore umano o a causa di una cattiva valutazione, si impegnerà a correggere l'errore, coordinandosi con la Associazione, per garantire il rispetto delle Regole Generali. In caso che tale correzione abbia un effetto sulle Cime disponibili per un'Associazione, il MT concederà un periodo di adeguamento prima di rendere effettiva la nuova lista di Cime per permettere ai partecipanti al Programma di Attivare o Cacciare le Cime che verranno eliminate dal Programma.
 
-6. Quando sono stati rilevati errori nelle liste delle Cime, o Cime duplicate tra Associazioni, il MT ha sempre ricevuto piena cooperazione dagli Association Managers coinvolti per eliminare tali discrepanze ed assicurare che le Associazioni siano pienamente in linea con le Regole Generali. La maggioranza di tali Associazioni, principlamente situate in Europa, sono ora, o saranno presto, pienamente in linea con le Regole Generali. I problemi affrontati dagli Association Managers sono stati risolti in maniera positiva, in linea con lo spirito di cooperazione che tutti riconosciamo nel mondo radioamatoriale.
+6. Quando sono stati rilevati errori nelle liste delle Cime, o Cime duplicate tra Associazioni, il MT ha sempre ricevuto piena cooperazione dagli Association Managers coinvolti per eliminare tali discrepanze ed assicurare che le Associazioni siano pienamente in linea con le Regole Generali. La maggioranza di tali Associazioni, principalmente situate in Europa, sono ora, o saranno presto, pienamente in linea con le Regole Generali. I problemi affrontati dagli Association Managers sono stati risolti in maniera positiva, in linea con lo spirito di cooperazione che tutti riconosciamo nel mondo radio amatoriale.
 
-7. Non c'e' dubbio che il SOTA sia un Programma internazionale gestito da un piccolo gruppo di volontari; SOTA non e' un club, i partecipanti non sono membri e la decisione di prendere parte o meno in questo Programma dipende solo da una scelta personale. I vari servizi offerti gratuitamente - SOTAwatch, il database SOTA, SOTA Cluster, il reflector - sono finanziati esclusivamente dalla vendita dei diplomi e dei gadgets SOTA, a parte questo non esiste alcun costo per chiunque voglia partecipare al Programma ma è opportuno sottolineare che la decisione finale circa l'idoneità dei premi previsti da questo programma spetta al Management Team.
+7. Non c'è dubbio che il SOTA sia un Programma internazionale gestito da un piccolo gruppo di volontari; SOTA non è un club, i partecipanti non sono membri e la decisione di prendere parte o meno in questo Programma dipende solo da una scelta personale. I vari servizi offerti gratuitamente - SOTAwatch, il database SOTA, SOTA Cluster, il reflector - sono finanziati esclusivamente dalla vendita dei diplomi e dei gadgets SOTA, a parte questo non esiste alcun costo per chiunque voglia partecipare al Programma ma è opportuno sottolineare che la decisione finale circa l'idoneità dei premi previsti da questo programma spetta al Management Team.
 
 ## 3.12.2 Manuale di riferimento dell'Associazione
 
@@ -30,15 +30,15 @@ L'ARM deve comprendere le seguenti sezioni:
 
 - Capitolo 1 - Storico delle revisioni.
 
-- Capitolo 2 - Dati di riferimento dell'Associazione. Questo capitolo deve contenere, come minimo, i parametri dell'Associazione ma puo' anche contenere informazioni generali dirette ai potenziali partecipanti.
+- Capitolo 2 - Dati di riferimento dell'Associazione. Questo capitolo deve contenere, come minimo, i parametri dell'Associazione ma può anche contenere informazioni generali dirette ai potenziali partecipanti.
 
-- Capitolo 3 - Dati di riferimento sulle Cime. Queco capitolo contiene la lista delle Cime idonee in formato tabulare. Le tabelle possono essere divise per Regione e possono contenere informazioni specifiche per una data Regione dirette ai potenziali partecipanti. Le minime informazioni richieste per ogni tabella sono:
+- Capitolo 3 - Dati di riferimento sulle Cime. Questo capitolo contiene la lista delle Cime idonee in formato tabulare. Le tabelle possono essere divise per Regione e possono contenere informazioni specifiche per una data Regione dirette ai potenziali partecipanti. Le minime informazioni richieste per ogni tabella sono:
 
     1. Numero di riferimento SOTA della Cima.
 
-    2. Il nome della Cima. Preferibilmente si indichi il nome usato sulle mappe locali. Nel caso tale nome non esista, e' possibile usare il nome usato localmente per indicare la Cima. Se anche questo nome non esiste, la Cima puo' essere identificata con la sua Altitudine.
+    2. Il nome della Cima. Preferibilmente si indichi il nome usato sulle mappe locali. Nel caso tale nome non esista, è possibile usare il nome usato localmente per indicare la Cima. Se anche questo nome non esiste, la Cima può essere identificata con la sua Altitudine.
 
-    3. La posizione, con una precisione di almeno 250 metri, indicata da longitudine e latitudine in formato decimale con segno. La posizione puo' essere addizionalmente specificata in altri formati come il sistema Maidenhead o altri sistemi di riferimento riconosciuti a livello nazionale.
+    3. La posizione, con una precisione di almeno 250 metri, indicata da longitudine e latitudine in formato decimale con segno. La posizione può essere addizionalmente specificata in altri formati come il sistema Maidenhead o altri sistemi di riferimento riconosciuti a livello nazionale.
 
     4. L'Altitudine della Cima in metri s.l.m. (sul livello del mare)
 
@@ -46,14 +46,14 @@ L'ARM deve comprendere le seguenti sezioni:
 
     6. Il punteggio associato alla Cima.
 
-L'AM e' responsabile dell'aggiornamento dell'ARM nel caso nuove cime vengano aggiunte o altri cambi siano necessari. Nel caso il manuale venga aggiornato, l'AM deve inviare la versione aggiornata del Manuale, e i relativi files di database al MT. La data in cui tali cambi entreranno in vigore verra' concordata tra l'AM e il MT.
+L'AM è responsabile dell'aggiornamento dell'ARM nel caso nuove cime vengano aggiunte o altri cambi siano necessari. Nel caso il manuale venga aggiornato, l'AM deve inviare la versione aggiornata del Manuale, e i relativi file di database al MT. La data in cui tali cambi entreranno in vigore verrà concordata tra l'AM e il MT.
 
-L'ARM e' approvato dal MT. Una Associazione diventa operativa quando il suo ARM viene approvato.
+L'ARM è approvato dal MT. Una Associazione diventa operativa quando il suo ARM viene approvato.
 
 ## 3.12.3 Altri documenti
 
 Altri documenti potranno essere prodotti di tanto in tanto.
 
-## 3.12.4 Priorita'
+## 3.12.4 Priorità
 
-In caso di conflitto, le Regole Generali prevalgono sul Manuale di Riferimento dell'Associazione. Le Regole Generali prevalgono anche su qualsiasi altro documento relativo al Programma, ufficiale o meno; es. Lineeguida per l'Attivatore, ecc... Nel caso in cui le Regole Generali siano tradotte in altre lingue, in caso di conflitto, la versione Inglese prevale su qualsiasi versione tradotta.
+In caso di conflitto, le Regole Generali prevalgono sul Manuale di Riferimento dell'Associazione. Le Regole Generali prevalgono anche su qualsiasi altro documento relativo al Programma, ufficiale o meno; es. Linee guida per l'Attivatore, ecc... Nel caso in cui le Regole Generali siano tradotte in altre lingue, in caso di conflitto, la versione Inglese prevale su qualsiasi versione tradotta.

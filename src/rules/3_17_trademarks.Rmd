@@ -1,13 +1,13 @@
 ## 3.17 Marchi registrati e copyright
 
-""Summits on the Air, SOTA e il logo SOTA sono marchi registrati del Programma. Tutti i documenti pubblicati dal Programma SOTA ufficiale sono protetti dal copyright del Programma. Nessun documento o dato puo' essere copiato o usato senza autorizzazione per uso commerciale o web.
+""Summits on the Air, SOTA e il logo SOTA sono marchi registrati del Programma. Tutti i documenti pubblicati dal Programma SOTA ufficiale sono protetti dal copyright del Programma. Nessun documento o dato può essere copiato o usato senza autorizzazione per uso commerciale o web.
 
 ## 3.17.1 Utilizzo del nome e logo SOTA
 
-Il nome e il logo SOTA possono essere utilizzati liberamenti per scopi non commerciali chiaramente relativi al Programma. Un esempio puo' essere l'uso del logo su una cartolina QSL, o su un sito web personale.
+Il nome e il logo SOTA possono essere utilizzati liberamente per scopi non commerciali chiaramente relativi al Programma. Un esempio può essere l'uso del logo su una cartolina QSL, o su un sito web personale.
 
 Qualsiasi organizzazione commerciale che voglia utilizzare il nome o il logo SOTA deve prima discutere i propri progetti, e stabilire un accordo, con il Management Team
 
-In ogni caso il logo SOTA venga utilizzato non deve essere alterato in aclun modo (es. nel contenuto, colore o proporzioni). La sua grandezza puo' essere variata per adattarsi al formato del documento.
+In ogni caso il logo SOTA venga utilizzato non deve essere alterato in alcun modo (es. nel contenuto, colore o proporzioni). La sua grandezza può essere variata per adattarsi al formato del documento.
 
-Nel caso in cui il logo SOTA sia usato su un sito web, la grafica puo' includere un collegamento opzionale al sito ufficiale del SOTA, [http://sota.org.uk](http://sota.org.uk). E' vietato utilizzare il logo SOTA con un collegamento diverso da quello appena indicato.
+Nel caso in cui il logo SOTA sia usato su un sito web, la grafica può includere un collegamento opzionale al sito ufficiale del SOTA, [http://sota.org.uk](http://sota.org.uk). è vietato utilizzare il logo SOTA con un collegamento diverso da quello appena indicato.

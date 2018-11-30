@@ -1,11 +1,11 @@
 ## 3.11 Punteggio
 
-Il punteggio di una Cima deve essere relazionato alla sua altitudine (ASL) a meno che questo non sia chiaramente e dimostabilmente poco pratico (vedi sotto). Ogni Cima "vale" un certo numero di punti che dipende dalla sua altitudine ASL. Esistono 6 fasce di altitudine espresse in metri ASL, e opzionalmente in piedi ASL. Il valore assegnato ad ogni fascia è deciso a livello di Associazione.
-Le fascie di altitudine per un’Associazione devono essere stabilite dal Association Manager avendo consultato il Management Team e devono essere scritte nel Association Reference Manual.
+Il punteggio di una Cima deve essere relazionato alla sua altitudine (ASL) a meno che questo non sia chiaramente ed in modo dimostrabile poco pratico (vedi sotto). Ogni Cima "vale" un certo numero di punti che dipende dalla sua altitudine ASL. Esistono 6 fasce di altitudine espresse in metri ASL, e opzionalmente in piedi ASL. Il valore assegnato ad ogni fascia è deciso a livello di Associazione.
+Le fasce di altitudine per un’Associazione devono essere stabilite dal Association Manager avendo consultato il Management Team e devono essere scritte nel Association Reference Manual.
 
 I punti vengono assegnati sia agli Attivatori che hai Cacciatori come segue:
 
-|  Fascie  |   Punteggio  |
+|  Fasce  |   Punteggio  |
 |:--------:|:--------:|
 | Fascia 1 | 1 punto  |
 | Fascia 2 | 2 punti  |
@@ -14,7 +14,7 @@ I punti vengono assegnati sia agli Attivatori che hai Cacciatori come segue:
 | Fascia 5 | 8 punti  |
 | Fascia 6 | 10 punti |
 
-In caso di Associazioni contenenti un numero relativamente basso di rilievi, come ad esempio il Belgio (ON) o l’Isola di Man (GD), assegnare Cime a ogni fascia di altitudine può risultare inopportuno o addirittura impossibile. In tal caso, una o più fascie d’altitudine (a partire dalle più alte) possono essere omesse.
+In caso di Associazioni contenenti un numero relativamente basso di rilievi, come ad esempio il Belgio (ON) o l’Isola di Man (GD), assegnare Cime a ogni fascia di altitudine può risultare inopportuno o addirittura impossibile. In tal caso, una o più fasce d’altitudine (a partire dalle più alte) possono essere omesse.
 
 Nota: Il SOTA MT si riserva il diritto, se necessario, di assegnare un punteggio di 0 punti alle Cime che non rispettano il criterio P150m. Normalmente le Cime in Fascia 1 e quelle con punteggio 0 non sono eleggibili per nessun punto bonus.
 
@@ -22,11 +22,11 @@ Nota: Il SOTA MT si riserva il diritto, se necessario, di assegnare un punteggio
 
 Un bonus stagionale può essere offerto agli Attivatori che prendono parte ad Attivazioni in una determinata Associazione. Tale bonus è a discrezione dell’Association Manager in accordo con il Management Team.
 
-Lo scopo del bonus stagionale è quello di rendere merito al fatto che durante il periodo di validità del bonus, per raggiungere in sicurezza le Cime, è necessario equipaggiamento ed abilita' specifiche.
+Lo scopo del bonus stagionale è quello di rendere merito al fatto che durante il periodo di validità del bonus, per raggiungere in sicurezza le Cime, è necessario equipaggiamento ed abilità specifiche.
 
 Il bonus, per esempio, può essere valido durante l’inverno, dove esista una significativa variazione in temperatura durante le stagioni, o può dipendere da altri fattori, quali la stagione dei monsoni, calore estivo ecc…
 
-E’ permesso un solo bonus stagionale all’anno per ogni Regione il quale può durare fino ad un massimo di 4 mesi.
+È permesso un solo bonus stagionale all’anno per ogni Regione il quale può durare fino ad un massimo di 4 mesi.
 
 Il bonus invernale si applica solo alle Attivazioni delle Cime più alte, il bonus estivo si applica a tutte le Cime. In ogni caso il bonus sarà di 3 punti.
 
@@ -36,9 +36,9 @@ L’Associaton Manager deve anche scegliere le date di inizio e fine del periodo
 
 In caso di Associazioni vaste, dove esistano variazioni climatiche significative, esiste la possibilità di definire differenti criteri per bonus stagionali per differenti Regioni. L’Association Manager dovrà fare questo tipo di richiesta, supportata da prove, al Management Team.
 
-### 3.11.2 Priorita' del punteggio di un Attivatore
+### 3.11.2 Priorità del punteggio di un Attivatore
 
-Nel caso in cui un Attivatore attivi la stessa Cima piu' di una volta durante l'anno, potra' richiedere il punteggio per una (e una sola) qualsiasi delle Attivazioni. Nel caso in cui una delle Attivazioni sia stata effettuata mentre era in vigore il bonus stagionale, potra' richiedere il punteggio di quella attivazione con aggiunti i punti del bonus stagionale piu' alto.
+Nel caso in cui un Attivatore attivi la stessa Cima più di una volta durante l'anno, potrà richiedere il punteggio per una (e una sola) qualsiasi delle Attivazioni. Nel caso in cui una delle Attivazioni sia stata effettuata mentre era in vigore il bonus stagionale, potrà richiedere il punteggio di quella attivazione con aggiunti i punti del bonus stagionale più alto.
 
 
 

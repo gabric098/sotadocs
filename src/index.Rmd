@@ -1,6 +1,7 @@
 ---
 title: "Summits on the air - Regole generali"
 author: "Gabriele Antonini"
+lang: "it"
 version: "1.0"
 date:
 output:

@@ -1,8 +1,8 @@
 ## 3.9 Regole per SWL
 
-1. Chiunque può partecipare nella categoria SWL a prescindere dal fatto che sia in possesso o meno di una licenza radioamatoriale.
+1. Chiunque può partecipare nella categoria SWL a prescindere dal fatto che sia in possesso o meno di una licenza radio amatoriale.
 
-2. L’operatore SWL deve ricevere un QSO tra l’Attivatore della Cima e qualsiasi altro OM, durante il quale devono essere scambiati per lo meno i callsigns e i rapporti RS(T). Queste informazioni devono essere registrate dal SWL. L’operatore SWL deve registrare la referenza SOTA della Cima nel caso venga trasmessa durante il QSO.
+2. L’operatore SWL deve ricevere un QSO tra l’Attivatore della Cima e qualsiasi altro OM, durante il quale devono essere scambiati per lo meno i nominativi e i rapporti RS(T). Queste informazioni devono essere registrate dal SWL. L’operatore SWL deve registrare la referenza SOTA della Cima nel caso venga trasmessa durante il QSO.
 
 3. A partire dal 1 Gennaio 2004, viene considerato ai fini del punteggio solo un QSO ascoltato con una specifica Cima durante ogni giorno (definito dalle 00:00 alle 23.59 UTC).
 

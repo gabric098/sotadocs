@@ -1,5 +1,5 @@
 # 1. Storico delle revisioni
 
 Data | Versione | Dettagli
-------------- | ------------- | -------------
+:-------------: | :-------------: | :-------------:
 23/09/2018 | 1.0 | Versione iniziale del documento
